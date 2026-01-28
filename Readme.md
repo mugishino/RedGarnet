@@ -1,5 +1,5 @@
 # RED GARNET
-A simple and easy-to-understand redstone circuit development resource pack.
+シンプルなレッドストーン回路開発用リソースパック
 
 # GALLERY
 |||
@@ -9,3 +9,6 @@ A simple and easy-to-understand redstone circuit development resource pack.
 ![](imgs/piston.webp    )|![](imgs/rail.webp    )|
 ![](imgs/wool_bulb.webp )|![](imgs/cauldron.webp)|
 ![](imgs/tripwire.webp  )|![](imgs/cake.webp    )|
+
+# 併用推奨
+- Clear Glass - Meteorfire | [Modrinth](https://modrinth.com/resourcepack/clear-glass)
