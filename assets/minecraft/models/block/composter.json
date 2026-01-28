@@ -3,8 +3,8 @@
     "parent": "block/block",
     "textures": {
         "top": "block/composter/top",
-        "particle": "block/composter/side0",
-        "side": "block/composter/side0",
+        "particle": "block/composter/side_inventory",
+        "side": "block/composter/side_inventory",
         "inner": "block/composter/inner",
         "bottom": "block/composter/bottom"
     },

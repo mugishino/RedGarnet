@@ -1,6 +1,6 @@
 {
     "multipart": [
-        {"apply": {"model": "block/composter"}, "when": {"level": "0"}},
+        {"apply": {"model": "block/composter/0"}, "when": {"level": "0"}},
         {"apply": {"model": "block/composter/1"}, "when": {"level": "1"}},
         {"apply": {"model": "block/composter/2"}, "when": {"level": "2"}},
         {"apply": {"model": "block/composter/3"}, "when": {"level": "3"}},
